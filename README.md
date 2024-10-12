@@ -28,11 +28,11 @@ Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthi
 ## Connect with Me
 
 Feel free to reach out on my social media:
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/YOUR_DISCORD_LINK)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/dilip7919)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilip-ravikumar-88071b251/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-F9DC3E.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mailthistodilip/)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-FFFFFF.svg?style=flat&logo=geeks-for-geeks&logoColor=black)](https://www.geeksforgeeks.org/user/dilip_r/)
-- [![X](https://img.shields.io/badge/X-1DA1F2.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+- [![X](https://img.shields.io/badge/X-1DA1F2.svg?style=flat&logo=x&logoColor=white)](https://x.com/0xSuper_Saiyan/)
 
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
