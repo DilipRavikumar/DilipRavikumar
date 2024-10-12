@@ -25,7 +25,7 @@ You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.
 ## LeetCode Profile
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mailthistodilip?theme=light&font=Roboto&extension=null)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mailthistodilip)](https://github.com/KnlnKS/leetcode-stats)
 
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
