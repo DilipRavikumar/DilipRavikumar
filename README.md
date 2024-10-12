@@ -17,8 +17,8 @@ I have a solid foundation in C and C++ programming, focusing on:
 - **C++**: Experienced in object-oriented programming, implementing algorithms and data structures, and using features like classes, inheritance, and polymorphism.
 
 ## GeeksforGeeks Contributions
-Check out my contributions on GeeksforGeeks:
-![GeeksforGeeks Stats](URL_TO_YOUR_CUSTOM_BADGE_IMAGE) <!-- Replace with your actual image URL -->
+Here’s a summary of my contributions on GeeksforGeeks:
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=dilip_r)](https://auth.geeksforgeeks.org/user/dilip_r/practice/)
 
 You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dilip_r/)
 
