@@ -13,6 +13,8 @@ In this repository, you'll find a collection of my projects and experiments, sho
 ## LeetCode Profile
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mailthistodilip?theme=light&font=Roboto&extension=null)
+
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
 Happy coding!
