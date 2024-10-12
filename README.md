@@ -1,14 +1,12 @@
 # Welcome to My GitHub Repository!
 
-Hi there! 👋 I'm Dilip, a passionate developer with a focus on UI/UX design, front-end development, and machine learning. I’m also deeply interested in web3 technologies, blockchain, and AI/ML.
+Hi there! 👋 I'm Dilip, a passionate developer with a focus on UI/UX design, front-end development, and machine learning. I’m also deeply interested in web3 technologies and blockchain.
 
 In this repository, you'll find a collection of my projects and experiments, showcasing my skills in:
 
 - React and Chakra UI for modern, responsive web applications.
 - UI/UX design with a focus on intuitive, user-centric interfaces.
-- Data science and predictive maintenance.
 - Firebase and Node.js for backend services.
-- Prometheus for monitoring and observability.
 - C and C++ programming for system-level programming, algorithms, and data structures.
 
 ## C and C++ Programming
@@ -26,6 +24,15 @@ You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
 
 ![LeetCode Stats Heatmap](https://leetcard.jacoblin.cool/mailthistodilip?ext=heatmap)
+
+## Connect with Me
+
+Feel free to reach out on my social media:
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/YOUR_DISCORD_LINK)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-F9DC3E.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mailthistodilip/)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-FFFFFF.svg?style=flat&logo=geeks-for-geeks&logoColor=black)](https://www.geeksforgeeks.org/user/dilip_r/)
+- [![X](https://img.shields.io/badge/X-1DA1F2.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
 
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
