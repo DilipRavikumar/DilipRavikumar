@@ -16,13 +16,18 @@ I have a solid foundation in C and C++ programming, focusing on:
 - **C**: Proficient in writing efficient code for various applications, understanding memory management, pointers, and data structures.
 - **C++**: Experienced in object-oriented programming, implementing algorithms and data structures, and using features like classes, inheritance, and polymorphism.
 
+## GeeksforGeeks Contributions
+I actively participate in coding challenges and contribute articles on GeeksforGeeks, focusing on:
+- Data Structures and Algorithms
+- Programming concepts in C and C++
+- Tutorials and guides for beginners
+
+You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dilip_r/)
+
 ## LeetCode Profile
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mailthistodilip?theme=light&font=Roboto&extension=null)
-
-## GeeksforGeeks Profile
-Check out my GeeksforGeeks profile: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dilip_r/)
 
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
