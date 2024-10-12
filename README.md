@@ -14,11 +14,6 @@ I have a solid foundation in C and C++ programming, focusing on:
 - **C**: Proficient in writing efficient code for various applications, understanding memory management, pointers, and data structures.
 - **C++**: Experienced in object-oriented programming, implementing algorithms and data structures, and using features like classes, inheritance, and polymorphism.
 
-## Design Tools
-I am proficient in various design tools, including:
-- **Adobe Photoshop**: Skilled in creating graphics, editing images, and designing layouts.
-- **Adobe XD**: Experienced in designing user interfaces and creating interactive prototypes.
-
 ## GeeksforGeeks Contributions
 Here’s a summary of my contributions on GeeksforGeeks:
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=dilip_r)](https://auth.geeksforgeeks.org/user/dilip_r/practice/)
@@ -39,6 +34,7 @@ Feel free to reach out on my social media:
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2E7D32?style=flat&logo=geeks-for-geeks&logoColor=white)](https://www.geeksforgeeks.org/user/dilip_r/)
 - [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xSuper_Saiyan/)
 
+## I am Good In
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -57,10 +53,6 @@ Feel free to reach out on my social media:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/xd-plain.svg" height="40" alt="xd logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
