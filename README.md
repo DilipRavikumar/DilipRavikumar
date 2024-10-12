@@ -27,6 +27,8 @@ Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthi
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mailthistodilip)](https://github.com/KnlnKS/leetcode-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mailthistodilip?cache=0)
+
 Feel free to explore, contribute, or reach out if you have any questions or ideas. Let's build something amazing together!
 
 Happy coding!
