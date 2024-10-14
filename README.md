@@ -24,10 +24,6 @@ Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthi
 
 ![LeetCode Stats Heatmap](https://leetcard.jacoblin.cool/mailthistodilip?ext=heatmap)
 
-### LeetCode Badges
-- ![LeetCode User Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=total_problems_solved&url=https://leetcode-stats-api.herokuapp.com/mailthistodilip&logo=LeetCode&labelColor=black&color=FFA116)
-- ![LeetCode Contest Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contest%20Rating&query=contest_rating&url=https://leetcode-stats-api.herokuapp.com/mailthistodilip&logo=LeetCode&labelColor=black&color=FFA116)
-
 ## GeeksforGeeks Contributions
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=dilip_r)](https://auth.geeksforgeeks.org/user/dilip_r/practice/)
 
