@@ -9,17 +9,22 @@ In this repository, you'll find a collection of my projects and experiments, sho
 - Firebase and Node.js for backend services.
 - C and C++ programming for system-level programming, algorithms, and data structures.
 
-## C and C++ Programming
-I have a solid foundation in C and C++ programming, focusing on:
-- **C**: Proficient in writing efficient code for various applications, understanding memory management, pointers, and data structures.
-- **C++**: Experienced in object-oriented programming, implementing algorithms and data structures, and using features like classes, inheritance, and polymorphism.
+## LeetCode Contributions
+<p align="center">
+  <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge 2" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="200" width="200" />
+  </a>
+</p>
 
-## GeeksforGeeks Contributions
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=dilip_r)](https://auth.geeksforgeeks.org/user/dilip_r/practice/)
-
-You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dilip_r/)
-
-## LeetCode Profile
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
 
 ![LeetCode Stats Heatmap](https://leetcard.jacoblin.cool/mailthistodilip?ext=heatmap)
@@ -27,6 +32,11 @@ Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthi
 ### LeetCode Badges
 - ![LeetCode User Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=total_problems_solved&url=https://leetcode-stats-api.herokuapp.com/mailthistodilip&logo=LeetCode&labelColor=black&color=FFA116)
 - ![LeetCode Contest Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contest%20Rating&query=contest_rating&url=https://leetcode-stats-api.herokuapp.com/mailthistodilip&logo=LeetCode&labelColor=black&color=FFA116)
+
+## GeeksforGeeks Contributions
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=dilip_r)](https://auth.geeksforgeeks.org/user/dilip_r/practice/)
+
+You can view my profile here: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dilip_r/)
 
 ## Connect with Me
 
