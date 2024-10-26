@@ -17,7 +17,10 @@ In this repository, you'll find a collection of my projects and experiments, sho
   <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 2" height="200" width="200" />
   </a>
-
+  <a href="https://leetcode.com/u/mailthistodilip/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="LeetCode Badge 2" height="200" width="200" />
+    
+  </a>
 </p>
 
 Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/mailthistodilip/)
